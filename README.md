@@ -1,1 +1,1 @@
-# Ramya_ReactJS_Lab
+This is React application Expense tracker.
